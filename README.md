@@ -1,2 +1,1 @@
-# mingw.terminal
-mini terminal gui
+python case select builder
