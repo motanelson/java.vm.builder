@@ -1,0 +1,1 @@
+iadd|mov eax,[esp+4];mov ebx,[esp+8];add eax,ebx|isub|mov eax,[esp+4];mov ebx,[esp+8];sub eax,ebx|imul|mov eax,[esp+4];mov ebx,[esp+8];mov ecx,0;mov edx,0;imul eax,ebx|idiv|mov eax,[esp+4];mov ebx,[esp+8];mov ecx,0;mov edx,0;idiv eax,ebx
